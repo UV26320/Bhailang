@@ -1,0 +1,52 @@
+hi bhai
+
+//
+ bol bhai "Hello World";
+ 
+  bhai ye hai a = 3;
+  bhai ye hai b = 0;
+
+  jab tak bhai (b < 5) {
+    bol bhai b;
+
+    agar bhai (b == a) {
+      bol bhai "b is equal to a";
+    } nahi to bhai (b == 0) {
+      bol bhai "b is equal to zero";
+    }
+
+    b += 1;
+  }
+
+
+  //
+    bhai ye hai y = 10;
+    bhai ye hai z = 10 + (15*20);
+    bhai ye hai c = "two";
+    bhai ye hai d = 'ok';
+    bhai ye hai e = nalla;
+    bhai ye hai f = sahi;
+    bhai ye hai g = galat;
+
+    bol bhai y;
+    bol bhai z;
+
+   //
+    bhai ye hai p = 0;
+    jab tak bhai (p < 10) {
+      p += 1;
+      agar bhai (p == 5) {
+        bol bhai "andar se bol bhai ", p;
+        agla dekh bhai;
+      }
+      agar bhai (p == 6) {
+        bas kar bhai;
+      }
+      bol bhai p;
+    }
+    bol bhai "done";
+
+    
+    
+
+bye bhai
